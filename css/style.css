@@ -137,6 +137,10 @@ body {
                 50px 50px;
 }
 
+.roll:hover {
+  color: #fff;
+  background: #fd1644;
+}
 .roll {
   cursor: pointer;
   color: #ff0032;
@@ -144,11 +148,6 @@ body {
   padding: 6px 12px;
   border-radius: 3px;
   font: 700 16px 'Montserrat';
-  border: 2px solid #eee;
+  border: 2px solid #ff0032;
   transition: .4s;
-}
-
-.roll:hover {
-  color: #fff;
-  background: #fd1644;
 }
