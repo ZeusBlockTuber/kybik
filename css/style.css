@@ -148,6 +148,6 @@ body {
   padding: 6px 12px;
   border-radius: 3px;
   font: 700 16px 'Montserrat';
-  border: 2px solid #ff0032;
   transition: .4s;
+  background: #e9e9ed;
 }
