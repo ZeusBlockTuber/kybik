@@ -139,12 +139,12 @@ body {
 
 .roll:hover {
   color: #fff;
-  background: #fd1644;
+  background: #533999;
 }
 
 .roll {
   cursor: pointer;
-  color: #ff0032;
+  color: #533999;
   margin-top: 60px;
   padding: 6px 12px;
   border-radius: 3px;
