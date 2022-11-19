@@ -15,13 +15,13 @@ body {
 }
 
 .container {
-  display: grid;
-  place-items: center;
-  width: 250px;
-  padding: 60px 0 40px;
-  border-radius: 30px;
-  background: #8578c8;
-  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    display: grid;
+    place-items: center;
+    width: 250px;
+    padding: 60px 0 40px;
+    border-radius: 30px;
+    background: #edecf3;
+    box-shadow: 0 0 20px rgb(0 0 0 / 10%);
 }
 
 .dice {
